@@ -1,6 +1,6 @@
 # Yo! 👋 I'm Shubham
 ### Vibe Coder ⚡ | Algorithm Apprentice 🧠 | ML Maverick 🤖
-<img align="right" alt="Coding GIF" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR1ZGl6cGUwMzdrNms0azFxNWVxNmhsMm16dXZkdmQ1ZTZsemtkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" />
+<img align="right" alt="Coding GIF" width="172" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR1ZGl6cGUwMzdrNms0azFxNWVxNmhsMm16dXZkdmQ1ZTZsemtkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" />
 
 - 🔭 Currently vibin’ on: [MAI Voice Bot](https://github.com/Subhamrana007/rasa-voice-bot-mai)  
 - 🌱 Grinding on: AI & ML  
