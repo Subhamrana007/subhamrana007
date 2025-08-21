@@ -1,36 +1,77 @@
+# Hi there! 👋 I'm Shubham
 
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A passionate Vibe Coder, Algorithm Apprentice and ML Maverick</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+### 🚀 Passionate Vibe Coder | Algorithm Apprentice | ML Maverick
 
-- 🔭 I’m currently working on [MAI](https://github.com/Subhamrana007/rasa-voice-bot-mai)
+<img align="right" alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🌱 I’m currently learning **AI and ML**
+## 🎯 What I'm Up To
 
-- 👯 I’m looking to collaborate on [ML PROJECTS](https://github.com/Subhamrana007/learning-ML)
+- 🔭 **Currently building:** [MAI - Voice Bot Assistant](https://github.com/Subhamrana007/rasa-voice-bot-mai)
+- 🌱 **Learning journey:** Diving deep into AI and Machine Learning
+- 👯 **Open to collaborate:** [ML Projects](https://github.com/Subhamrana007/learning-ML) and innovative AI solutions
+- 🤝 **Seeking guidance:** Advanced Deep Learning techniques and architectures
+- ♟️ **Strategic thinker:** Chess enthusiast with strong critical thinking skills
 
-- 🤝 I’m looking for help with **DEEP LEARNING**
+## 💻 Tech Arsenal
 
-- 👨‍💻 All of my projects are available at [https://subhamrana007.github.io/portfolio/](https://subhamrana007.github.io/portfolio/)
+**Languages & Frameworks:**
+```
+Python | HTML5 | CSS3 | Flask | Bootstrap | Tailwind CSS
+```
 
-- 💬 Ask me about **GIT, GITHUB, JUPYTER**
+**AI/ML Stack:**
+```
+TensorFlow | PyTorch | Scikit-learn | Pandas | OpenCV
+```
 
-- 📫 How to reach me **shubhamrana1356@gmail.com**
+**DevOps & Tools:**
+```
+Docker | Kubernetes | AWS | Git | Linux | Bash | Postman | Jupyter
+```
 
-- ⚡ Fun fact **I use Linux**
+## 🌐 Let's Connect
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/subhamrana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhamrana007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhamrana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhamrana007" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/subhamrana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="subhamrana007" height="30" width="40" /></a>
-<a href="https://kaggle.com/subhamrana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subhamrana007" height="30" width="40" /></a>
-<a href="https://instagram.com/subhamrana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhamrana007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subhamrana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhamrana007" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/subhamrana007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhamrana007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhamrana007" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://stackoverflow.com/users/subhamrana007" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+</a>
+<a href="https://kaggle.com/subhamrana007" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="https://www.leetcode.com/subhamrana007" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/subhamrana007" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📊 GitHub Analytics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamrana007&" alt="subhamrana007" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhamrana007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhamrana007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamrana007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🎯 Quick Facts
+
+- 💼 **Portfolio:** [subhamrana007.github.io/portfolio](https://subhamrana007.github.io/portfolio/)
+- 📧 **Contact:** shubhamrana1356@gmail.com
+- 🐧 **OS of Choice:** Linux enthusiast
+- ♟️ **Hobbies:** Chess player with a love for strategic thinking
+- 💡 **Ask me about:** Git, GitHub, Jupyter, ML algorithms, and problem-solving strategies
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhamrana007&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+*"In chess and in code, every move matters. Think strategically, execute precisely."* ♟️
