@@ -21,9 +21,3 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/subhamrana007)
 
 ---
-
-### GitHub Stats
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhamrana007&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamrana007&layout=compact&theme=radical" width="49%" />
-</p>
