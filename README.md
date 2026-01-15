@@ -1,15 +1,28 @@
 ## Hi, I'm Shubham 👋
 
-I'm a developer learning by building and solving problems.
-Currently focused on JavaScript, Data Structures & Algorithms, and Python.
+I'm a developer who enjoys learning by building and solving problems.
+I focus on understanding fundamentals and turning concepts into working code.
 
-**Tech Stack**
-- JavaScript
-- Python
-- HTML, CSS
-- Git & GitHub
-- Linux (Ubuntu)
+---
 
-**Reach Out**
+## 🛠 Tech Stack
+- **Languages:** JavaScript, Python  
+- **Frontend:** HTML, CSS, React (learning)  
+- **Backend:** Flask (basics)  
+- **Tools:** Git, GitHub, Linux (Ubuntu)
+
+---
+
+## 🎯 What I'm Focused On
+- Writing cleaner and more readable code
+- Improving problem-solving and algorithmic thinking
+- Building projects 
+- Learning consistently instead of cramming
+
+---
+
+## 📫 Reach Out
 - GitHub: you're already here 🙂
-- email: shubhamrana1356@gmail.com
+- Email: shubhamrana1356@gmail.com
+
+---
