@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shubham
 ---
-I’m a developer focused on **JavaScript, Data Structures & Algorithms**, and building real projects step by step.  
-I care about fundamentals, clean logic, and getting better every day.
+-I’m a developer focused on **JavaScript, Data Structures & Algorithms**, and building real projects step by step.  
+-I care about fundamentals, clean logic, and getting better every day.
 ---
 ## 🛠 Tech Stack
 - **Languages:** JavaScript, Python
