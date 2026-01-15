@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Shubham
+---
 I’m a developer focused on **JavaScript, Data Structures & Algorithms**, and building real projects step by step.  
 I care about fundamentals, clean logic, and getting better every day.
 ---
@@ -12,5 +13,4 @@ I care about fundamentals, clean logic, and getting better every day.
 ## 📫 Connect
 - GitHub: you’re already here 🙂
 - Learning in public, one repo at a time
----
-> *Consistency beats motivation. Finished beats perfect.*
+
