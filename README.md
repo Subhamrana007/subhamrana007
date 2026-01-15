@@ -5,9 +5,10 @@ I focus on understanding fundamentals and turning concepts into working code.
 
 ## 🛠 Tech Stack
 - **Languages:** JavaScript, Python  
-- **Frontend:** HTML, CSS, React (learning)  
-- **Backend:** Flask (basics)  
-- **Tools:** Git, GitHub, Linux (Ubuntu)
+- **Frontend:** HTML, CSS, React 
+- **Backend:** Flask
+- **Database:** SQL, NoSQL
+- **Tools:** Git, GitHub, Linux (debian)
 
 ## 🎯 What I'm Focused On
 - Writing cleaner and more readable code
